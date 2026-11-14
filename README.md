@@ -1,7 +1,7 @@
 <!-- Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:2c5364,100:6a11cb&text=Hi%2C%20I'm%20Manas&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%2FML%20%26%20Full-Stack%20Developer&descSize=20&descAlignY=60&animation=fadeIn" alt="Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:2c5364,100:6a11cb&text=Hi%2C%20I%27m%20Manas&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%2FML%20and%20Full-Stack%20Developer&descSize=20&descAlignY=60&animation=fadeIn" alt="Banner" width="100%" />
 
 <a href="https://github.com/manaskesarla">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6A11CB&center=true&vCenter=true&width=640&lines=Building+AI+systems+that+learn+from+self-play;Training+neural+nets+on+a+single+laptop;Shipping+full-stack+apps+with+FastAPI+%26+Astro;Measuring+results+honestly%2C+not+optimistically" alt="Typing animation" />
@@ -9,6 +9,7 @@
 
 <br/>
 
+<a href="https://www.linkedin.com/in/manas-gupta-kesarla-a68279376/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/manaskesarla?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Browse-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 
 </div>
@@ -107,6 +108,7 @@ I'm an **AI/ML and full-stack developer**. I like projects where a model has to 
 ## 📫 Let's connect
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/manas-gupta-kesarla-a68279376/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/manaskesarla?tab=repositories"><img src="https://img.shields.io/badge/GitHub-manaskesarla-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
