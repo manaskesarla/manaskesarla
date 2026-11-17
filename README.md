@@ -78,10 +78,10 @@ I'm an **AI/ML and full-stack developer**. I like projects where a model has to 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/manaskesarla/SIH">
-        <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=manaskesarla&repo=SIH&theme=radical&hide_border=true" alt="SIH" />
+      <a href="https://github.com/manaskesarla/Connor-">
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=manaskesarla&repo=Connor-&theme=radical&hide_border=true" alt="Connor-" />
       </a>
-      <br/><sub><b>Privacy Lens.</b> A Manifest V3 Chrome extension that finds likely sensitive form fields (passwords, card numbers, Indian ID fields) and returns their on-screen bounding boxes, without reading or storing any input values.</sub>
+      <br/><sub><b>CONNOR.</b> An on-device, privacy-preserving visual AI agent for browser automation. A Manifest V3 extension detects and blacks out PII (DOM analysis, Tesseract OCR, MediaPipe face detection) before anything reaches a FastAPI + vision-language-model backend, with a fail-closed verification gate and an action firewall for approvals.</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/manaskesarla/student-portal">
