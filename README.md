@@ -11,6 +11,7 @@
 
 <a href="https://www.linkedin.com/in/manas-gupta-kesarla-a68279376/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/manaskesarla?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Browse-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+<a href="https://github.com/manaskesarla/manaskesarla/blob/main/Manas_Gupta_Kesarla_Resume.pdf"><img src="https://img.shields.io/badge/Resume-View_PDF-E11D48?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
 
 </div>
 
@@ -110,6 +111,7 @@ I'm an **AI/ML and full-stack developer**. I like projects where a model has to 
 <p align="center">
   <a href="https://www.linkedin.com/in/manas-gupta-kesarla-a68279376/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/manaskesarla?tab=repositories"><img src="https://img.shields.io/badge/GitHub-manaskesarla-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/manaskesarla/manaskesarla/blob/main/Manas_Gupta_Kesarla_Resume.pdf"><img src="https://img.shields.io/badge/Resume-View_PDF-E11D48?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
 </p>
 
 <p align="center"><i>Open to internships, collaborations and conversations about ML and web projects.</i></p>
